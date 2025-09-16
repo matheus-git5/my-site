@@ -1,4 +1,3 @@
-# my-site
 %%writefile index.html
 <!DOCTYPE html>
 <html>
